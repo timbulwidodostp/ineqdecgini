@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'ineqdecgini': Gini index of inequality, with optional decomposition by subgroups Use ineqdecgini And ineqdec0 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ineqdec0.ado
+f ineqdec0.hlp
+f ineqdec05.ado
+f ineqdec05.hlp
+f ineqdecgini.ado
+f ineqdecgini.sthlp
